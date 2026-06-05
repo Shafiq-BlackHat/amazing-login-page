@@ -1,2 +1,2 @@
-# amazing-login-page
+# amazing-login
 login page only
